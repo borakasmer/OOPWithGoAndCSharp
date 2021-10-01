@@ -1,0 +1,12 @@
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/bin/Debug/netcoreapp3.0/strategy.deps.json
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/bin/Debug/netcoreapp3.0/strategy.runtimeconfig.json
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/bin/Debug/netcoreapp3.0/strategy.runtimeconfig.dev.json
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/bin/Debug/netcoreapp3.0/strategy.dll
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/bin/Debug/netcoreapp3.0/strategy.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.csprojAssemblyReference.cache
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.AssemblyInfoInputs.cache
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.AssemblyInfo.cs
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.dll
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.csproj.CoreCompileInputs.cache
+/Users/borakasmer/Desktop/DevNot2-2019/strategy/obj/Debug/netcoreapp3.0/strategy.genruntimeconfig.cache

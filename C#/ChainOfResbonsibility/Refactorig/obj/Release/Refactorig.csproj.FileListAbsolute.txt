@@ -1,0 +1,7 @@
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\bin\Release\Refactorig.exe.config
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\bin\Release\Refactorig.exe
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\bin\Release\Refactorig.pdb
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\obj\Release\Refactorig.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\obj\Release\Refactorig.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\obj\Release\Refactorig.exe
+\\Mac\Home\Desktop\DevNot2-2019\Refactorig\Refactorig\obj\Release\Refactorig.pdb

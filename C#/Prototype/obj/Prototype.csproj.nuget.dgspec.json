@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/Prototype/Prototype.csproj": {}
+  },
+  "projects": {
+    "/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/Prototype/Prototype.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/Prototype/Prototype.csproj",
+        "projectName": "Prototype",
+        "projectPath": "/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/Prototype/Prototype.csproj",
+        "packagesPath": "/Users/borakasmer/.nuget/packages/",
+        "outputPath": "/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/Prototype/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/borakasmer/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "targetAlias": "netcoreapp3.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "targetAlias": "netcoreapp3.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

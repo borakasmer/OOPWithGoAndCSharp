@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "/Users/borakasmer/Desktop/DevNot2-2019/Interpreter/Interpreter/Interpreter.csproj",
+  "TargetFramework": "v4.7.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

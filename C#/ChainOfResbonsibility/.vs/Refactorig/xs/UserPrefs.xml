@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{98979258-ABD0-4AB0-A1DC-F328D221E0A1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Refactorig/Process.cs">
+    <Files>
+      <File FileName="Refactorig/Program.cs" Line="25" Column="72" />
+      <File FileName="Refactorig/App.config" />
+      <File FileName="Refactorig/Process.cs" Line="13" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Refactorig" expanded="True">
+            <Node name="Refactorig" expanded="True">
+              <Node name="Process.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Refactorig PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

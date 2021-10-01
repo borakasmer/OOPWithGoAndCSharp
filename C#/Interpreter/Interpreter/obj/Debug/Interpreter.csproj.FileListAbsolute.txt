@@ -1,0 +1,17 @@
+/Users/borakasmer/Projects/Interpreter/Interpreter/obj/Debug/Interpreter.csprojAssemblyReference.cache
+/Users/borakasmer/Projects/Interpreter/Interpreter/bin/Debug/Interpreter.exe
+/Users/borakasmer/Projects/Interpreter/Interpreter/bin/Debug/Interpreter.pdb
+/Users/borakasmer/Projects/Interpreter/Interpreter/obj/Debug/Interpreter.exe
+/Users/borakasmer/Projects/Interpreter/Interpreter/obj/Debug/Interpreter.pdb
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/bin/Debug/Interpreter.exe
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/bin/Debug/Interpreter.pdb
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/obj/Debug/Interpreter.csprojAssemblyReference.cache
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/obj/Debug/Interpreter.csproj.CoreCompileInputs.cache
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/obj/Debug/Interpreter.exe
+C:/Users/bora.kasmer/Desktop/Interpreter/Interpreter/obj/Debug/Interpreter.pdb
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\bin\Debug\Interpreter.exe
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\bin\Debug\Interpreter.pdb
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\obj\Debug\Interpreter.csprojAssemblyReference.cache
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\obj\Debug\Interpreter.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\obj\Debug\Interpreter.exe
+\\Mac\Home\Desktop\DevNot2-2019\Interpreter\Interpreter\obj\Debug\Interpreter.pdb

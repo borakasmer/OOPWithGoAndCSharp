@@ -1,0 +1,34 @@
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/bin/Debug/Refactorig.exe.config
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/bin/Debug/Refactorig.exe
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/bin/Debug/Refactorig.pdb
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/obj/Debug/Refactorig.csprojResolveAssemblyReference.cache
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/obj/Debug/Refactorig.exe
+C:/Users/bkasmer/Documents/Visual Studio 2015/Projects/Refactorig/Refactorig/obj/Debug/Refactorig.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.exe.config
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.csproj.CoreCompileInputs.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.pdb
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.exe.config
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.exe
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/bin/Debug/Refactorig.pdb
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.csproj.CoreCompileInputs.cache
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.exe
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.pdb
+//Mac/Home/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.csproj.AssemblyReference.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Refactorig/Refactorig/obj/Debug/Refactorig.csproj.AssemblyReference.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.exe.config
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.csproj.AssemblyReference.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.csproj.CoreCompileInputs.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.exe.config
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/bin/Debug/Refactorig.pdb
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.csproj.AssemblyReference.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.csproj.CoreCompileInputs.cache
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.exe
+/Users/borakasmer/Desktop/DevNot2-2019/Komunity2021_DesignPatterns/ChainOfResbonsibility/Refactorig/obj/Debug/Refactorig.pdb
